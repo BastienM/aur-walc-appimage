@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=WALC
+Comment=Unofficial WhatsApp Linux Client
+Exec=/opt/appimages/WALC.AppImage %U
+Terminal=false
+Type=Application
+Icon=appimagekit-walc
+X-AppImage-Version=0.11-Post
+StartupWMClass=WALC
+Categories=Internet;
